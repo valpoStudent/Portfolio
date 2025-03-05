@@ -1,0 +1,215 @@
+Hexin Liu's Pain(t) Version 0.0.1 - 09-09-2022
+
+New Features:
+
+The paint option is implemented.
+
+There is also a menu option for choosing colors.
+
+Known Issues:
+
+The "save as" and "save" had difficulty with saving the file.
+
+Expected next sprint
+
+I might want to add more [code for the saving-file process]     //note: the square brackets were not from the original sprint notes
+
+Links
+
+https://github.com/valpoStudent/For-Sprint-1
+
+
+
+
+
+Hexin Liu Pain(t) Version 0.0.2 - 09-16-2022
+
+New Features:
+
+	*Line Width Adjustment
+
+	*Improved save-as function
+
+	*Help/about menu
+
+Known Issues:
+
+	*The save-as result files have an unsupported format.
+
+	*The width adjustment is a tedious process (cosists of clicking on the checkboxes).
+
+
+Expected Next Sprint:
+
+	*I might add methods to combat the unsupported format of the save-as result files.
+
+	*I might also add more menu-items for various shapes and help options.
+
+
+Links: 
+	
+	*https://github.com/valpoStudent/Second-Sprint-of-Pain-t-
+
+
+
+
+
+Hexin Liu's Paint Program Version 0.0.3 - 09/26/2022
+
+New Features:
+
+	*The dashed line
+
+	*Tabs (2 of them)
+
+	*Pencil Draw
+	
+	*Resizable canvas
+
+Known (Main) Issues:
+
+	*Sometimes, when both of the two checkboxes for pencil or paint are on, it will still leave a mark on the applicaton.
+
+	*The shapes can go out of bounds.
+	
+	*When decreasing and then increasing the size of the canvas, the texture of the canvas becomes "pixelated".
+
+Expected Next Sprint:
+	
+	*Incorporate a for-loop to add more tabs.
+
+	*Add a bound to prevent a shape from leaving the canvas
+
+Links:
+	
+	*https://github.com/valpoStudent/Sprint-part-3-
+
+
+
+
+
+Hexin's Paint Program 0.0.4 - 10-02-2022
+
+
+New Features:
+
+*Undo and Redo functions
+
+*Polygons and arcs
+
+*Can move parts of the image.
+
+
+Known Issues:
+
+*The copy/paste function cannot copy and paste the part of the image.
+
+
+Expected Next Sprint
+
+*I might want to improve the copy/paste function
+
+*I might also want to improve the inserting tab function.
+
+
+Links:
+
+https://github.com/valpoStudent/Paint-sprint-4
+
+
+
+
+
+Hexin's Paint Program 0.0.5 - 10/07/2022
+
+
+New features:
+
+	*Autosave with a countdown timer
+
+	*With JavaDoc commentary
+
+	*A warning data-loss alert about the "alternative" file format.
+
+
+Known issues:
+	
+	*There is a poor logic of implementing buttons for the data-loss alert.
+
+
+Expected next sprint:
+
+	*Inserting additional code to combat the poor button implementation logic.
+
+	*Using additional code to make sure that the format of the autosaved files are supported.
+
+Links:
+	
+	*https://github.com/valpoStudent/Sprint-5
+
+
+
+
+
+Hexin Liu's Paint Program Version 0.0.6 - 10/21/2022   //note: different notation from original release note
+
+
+New Features:
+
+* Now uses threated logging (for shapes).
+
+* Allows rotation and reflection of an image
+
+* Have icons
+
+* Some tool tips
+
+Known Issues:
+
+* The selection of the part of the canvas can be minorly uncontrolable.
+
+* The threading is limited.
+
+Expected Next Sprint:
+
+* Expand the threading to saving and selecting files.
+
+* Find a better method of controlling the height and the width of the selected part of the canvas.
+
+Links:
+
+https://github.com/valpoStudent/Sprint-6-for-paint
+
+
+
+
+
+Hexin Liu's Paint Program Version 0.0.7 - 11/28/2022    
+
+
+New Features:
+
+*The application can now save files.
+
+*The size of the paintbrush, eraser, and the pencil can be changed with the change-size option.
+
+*The insert-color textfield will allow the user to input any colors (in color names, hex codes, and such).
+
+Known Issues:
+
+*Currently, the application produces a new copy of a file when saving it rather than actually saving a file and keeping the file single.
+
+*The option for changing the size for the eraser does not corrospond to the size of the eraser.
+
+Expected Next Sprint (or Improvements):
+
+*Produce code that will save an image as a single file.
+
+*Make sure that the alteration of the size for the eraser changes the eraser's size.
+
+Links (including the video):
+
+https://github.com/valpoStudent/final_turn_in
+
+https://www.youtube.com/watch?v=1FOYkR9Gk7s
+
